@@ -1,5 +1,5 @@
 # English 
-FluiDex team is building the first PLONK layer2 DEX on Ethereum. Currently, we mainly focus on recruiting Chinese-native-speaking developers since it will easier for us to communicate daily. But if you are interested in our team, we are also open to having development positions globally and remotely, you can discuss with our team directly <https://t.me/fluid_dex> .   
+FluiDex team is building the first PLONK layer2 DEX on Ethereum. Currently, we mainly focus on recruiting native Chinese-speaker developers since it makes our daily communications easier. But if you are interested in our team, feel free to reach out to our team via <https://t.me/fluid_dex> -- we are also happy to have global/remote developer positions.
 
 # 招聘说明
 
@@ -32,7 +32,6 @@ FluiDex Labs 致力于构建下一代专业的去中心化交易所。我们将�
 
 报酬：100-150每小时。一般来说大部分人实际拿到的，更接近于这个取值范围的左边而非右边。当然，如果实习生工作几周后，表现非常出色，报酬甚至不局限在这个范围内。
 
-
 ## 兼职部分
 
 工作内容：大致等同于上面“实习部分”的工作内容。 主要针对有工作经验，在工作之余愿意赚点外快的人。
@@ -61,8 +60,6 @@ FluiDex Labs 致力于构建下一代专业的去中心化交易所。我们将�
 
 我们不要求员工陪创始人加班。创始人愿意 996 是因为自己就是大股东，不是大股东不要求加班:)
 
-
-
 ## FAQ 
 
 Q: 上面很多工资单位都是时薪，为什么是时薪，而不是日薪或者按照开发任务来结算？时薪怎么保证诚实？  
@@ -79,4 +76,3 @@ A: 我绝对不会不回复的。没收到回复肯定是通信渠道出了问�
 
 Q: 我觉得我有点菜，可以更低一些工资实习吗？  
 A: 我至少现在更倾向于维持小而精的团队。当然，如果过几周我们被现实打脸，搭建不起来小而精的团队，我们也许会考虑给更接近市场价的工资，找更普通的人。
-
